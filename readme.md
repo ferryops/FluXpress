@@ -118,3 +118,8 @@ final String apiUrl = 'http://localhost:3000/api/barang';
 ## Kontribusi
 
 Kontribusi sangat diterima! Jika Anda menemukan bug atau memiliki ide untuk fitur baru, silakan buat pull request atau buka issue.
+
+## Preview
+
+![List Barang](frontend/assets/images/list-barang.png)
+![Update Barang](frontend/assets/images/update-barang.png)
